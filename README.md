@@ -1,52 +1,48 @@
-📊 Sales Data Analysis Dashboard (Python)
-🔍 Project Overview
+# 📊 Sales Data Analysis Dashboard (Python)
 
+## 🔍 Project Overview
 This project analyzes company sales data using Python and popular data analysis libraries. It helps in understanding sales performance, identifying top products, and visualizing trends through graphs.
 
-🛠 Technologies Used
+---
 
-Python
+## 🛠 Technologies Used
+- Python  
+- Pandas  
+- Matplotlib  
+- Seaborn  
 
-Pandas
+---
 
-Matplotlib
-
-Seaborn
-
-📁 Dataset Details
-
+## 📁 Dataset Details
 The dataset includes sales records with the following fields:
+- **Date** – Date of sale  
+- **Product** – Product name  
+- **Region** – Sales region  
+- **Sales** – Sales amount  
 
-Date – Date of sale
+---
 
-Product – Product name
+## 🚀 Key Features
+✔ Calculate **Total Sales Revenue**  
+✔ Identify **Best Selling Product**  
+✔ Analyze **Monthly Sales Trends**  
+✔ Compare **Sales by Region** using charts  
 
-Region – Sales region
+---
 
-Sales – Sales amount
+## 📈 Visualizations
+📌 Line chart showing monthly sales trend  
+📌 Bar chart showing region-wise sales performance  
 
-🚀 Key Features
+---
 
-✔ Calculate Total Sales Revenue
-✔ Identify Best Selling Product
-✔ Analyze Monthly Sales Trends
-✔ Compare Sales by Region using charts
+## ▶ How to Run
 
-📈 Visualizations
-
-📌 Line chart showing monthly sales trend
-📌 Bar chart showing region-wise sales performance
-
-▶ How to Run
-
-Install required libraries:
-
-pip install pandas matplotlib seaborn
-
-
-Run the Python notebook or script to see analysis and graphs.
-
-💼 Project Outcome
+1. Install required libraries:
+   ```bash
+   pip install pandas matplotlib seaborn
+2.Run the Python notebook or script to see analysis and graphs.
+Project Outcome
 
 This project demonstrates practical skills in:
 
